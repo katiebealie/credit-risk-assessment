@@ -21,6 +21,3 @@ The purpose of this analysis was to use supervised learning methods to train a m
     * Recall for healthy loans: 100%
     * Recall for high risk loans: 89%
 
-## Summary
-
-This model performs well at predicting healthy loans, but the potential interest for a client would more likely be in predicting high risk loans. High-risk loans have the potential to be costly, and are therefore more criticial to be able to accurately flag for further review by the lending party. This model could use improvement in that area, as the precision rate is below 90%. However, such a model would still be useful regardless.
