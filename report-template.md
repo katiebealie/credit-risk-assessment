@@ -4,7 +4,8 @@
 
 ### Description
 
-The purpose of this analysis was to use supervised learning methods to train a machine learning algorithm. This analysis used a logistic regression model to assess the risk level of various loans and generate predictions. The basic proccess was as follows:
+The purpose of this analysis was to use supervised learning methods to train a machine learning algorithm. This analysis used a logistic regression model to assess the risk level of various loans and generate predictions. 
+* Process:
     * loan_status variable split from dimensions, loan_status values saved as label array
     * dataframe with remaining data designated as x dataset of features
     * train-test-split used to divvy up data for training and testing
